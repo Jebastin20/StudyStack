@@ -7,7 +7,7 @@ loginForm.addEventListener("submit", async (e) => {
     const password = document.getElementById("password").value;
 
     try {
-        const response = await fetch("http://localhost:5000/api/users/login", {
+        const response = await fetch("http://https://studystack-backend-js08.onrender.com/api/users/login", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"

@@ -1,4 +1,4 @@
-const API = "http://localhost:5000/api/subjects";
+const API = "https://studystack-backend-js08.onrender.com/api/subjects";
 
 const modal = new bootstrap.Modal(
     document.getElementById("subjectModal")

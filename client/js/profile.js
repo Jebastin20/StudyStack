@@ -1,6 +1,6 @@
-const API = "http://localhost:5000/api/users";
-const SUBJECT_API = "http://localhost:5000/api/subjects";
-const SESSION_API = "http://localhost:5000/api/study-sessions";
+const API = "https://studystack-backend-js08.onrender.com/api/users";
+const SUBJECT_API = "https://studystack-backend-js08.onrender.com/api/subjects";
+const SESSION_API = "https://studystack-backend-js08.onrender.com/api/study-sessions";
 
 const token = localStorage.getItem("token");
 const userId = localStorage.getItem("userId");

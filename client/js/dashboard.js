@@ -1,7 +1,7 @@
-const USER_API = "http://localhost:5000/api/users";
-const SUBJECT_API = "http://localhost:5000/api/subjects";
-const SESSION_API = "http://localhost:5000/api/study-sessions";
-const NOTIFICATION_API = "http://localhost:5000/api/notifications";
+const USER_API = "https://studystack-backend-js08.onrender.com/api/users";
+const SUBJECT_API = "https://studystack-backend-js08.onrender.com/api/subjects";
+const SESSION_API = "https://studystack-backend-js08.onrender.com/api/study-sessions";
+const NOTIFICATION_API = "https://studystack-backend-js08.onrender.com/api/notifications";
 
 
 // ==============================

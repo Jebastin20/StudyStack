@@ -1,5 +1,5 @@
-const SESSION_API = "http://localhost:5000/api/study-sessions";
-const SUBJECT_API = "http://localhost:5000/api/subjects";
+const SESSION_API = "https://studystack-backend-js08.onrender.com/api/study-sessions";
+const SUBJECT_API = "https://studystack-backend-js08.onrender.com/api/subjects";
 
 const modal = new bootstrap.Modal(
     document.getElementById("sessionModal")
